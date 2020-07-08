@@ -1,0 +1,27 @@
+﻿  PlayableCharacter.cpp
+c:\users\admin\source\repos\twl01\twl01\playablecharacter.cpp(54): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\source\repos\twl01\twl01\playablecharacter.cpp(59): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\source\repos\twl01\twl01\playablecharacter.cpp(61): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\source\repos\twl01\twl01\playablecharacter.cpp(64): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\source\repos\twl01\twl01\playablecharacter.cpp(66): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  TWL01.vcxproj -> C:\Users\Admin\source\repos\TWL01\x64\Debug\TWL01.exe
