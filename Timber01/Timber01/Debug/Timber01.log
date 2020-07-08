@@ -1,0 +1,4 @@
+﻿  Timber01.cpp
+c:\users\admin\source\repos\timber01\timber01\timber01.cpp(297): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\timber01\timber01\timber01.cpp(324): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Timber01.vcxproj -> C:\Users\Admin\source\repos\Timber01\Debug\Timber01.exe
